@@ -4,8 +4,7 @@
   "description": "Dummy setup",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"This is a test\"",
-    "start": "node index.js"
+    "test": "echo \"This is a test\""
   },
   "repository": {
     "type": "git",
